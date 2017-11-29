@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1506115524 source:d:\esi\codeblocks\bitchess\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definition.h"
+
+1503835785 d:\esi\codeblocks\bitchess\definition.h
+	"stdlib.h"
+	"stdio.h"
+	"string.h"
+	<stdbool.h>
+	<inttypes.h>
+
+1503835816 source:d:\esi\codeblocks\bitchess\fonctions.c
+	"definition.h"
+
+1493405174 source:d:\esi\codeblocks\bitchess\affichage.c
+	"stdio.h"
+	"definition.h"
+
+1505756421 source:d:\esi\codeblocks\bitchess\deplacement.c
+	"definition.h"
+
+1506116761 source:d:\esi\codeblocks\bitchess\ai.c
+	"definition.h"
+
+1498837124 source:d:\esi\codeblocks\bitchess\evaluationbitboard.c
+	"definition.h"
+
+1498836207 source:d:\esi\codeblocks\bitchess\minmaxbitboard.c
+	"definition.h"
+
+1506022767 source:d:\esi\codeblocks\bitchess\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	"definition.h"
+	"evaluation_des_pieces.h"
+
+1487035376 d:\esi\codeblocks\bitchess\evaluation_des_pieces.h
+
+1506116777 source:d:\esi\codeblocks\bitchess\deplacement_tableau.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"definition.h"
+
+1498907632 d:\esi\codeblocks\bitchess\regle_de_deplacement.c
+
+1498907759 d:\esi\codeblocks\bitchess\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definition.h"
+
+1498907854 source:d:\esi\codeblocks\bitchess\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"definition.h"
+
+1505979887 source:d:\esi\codeblocks\bitchess\minmax_tableau.c
+	"definition.h"
+
+1498907632 source:d:\esi\codeblocks\bitchess\regle_de_deplacement.c
+
